@@ -1,0 +1,13 @@
+{
+  "name": "lib_prompt",
+  "description": "Echo prompt",
+  "template": "Echo: {input}",
+  "input_variables": [
+    "input"
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "author": null,
+    "tags": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "agent_id": "bad_tool_agent",
+  "agent_type": "react",
+  "model": "meta/llama3-70b-instruct",
+  "tools": [
+    "not_a_real_tool"
+  ],
+  "prompt_name": null,
+  "prompt_template": "Solve: {input}",
+  "has_memory": false,
+  "description": "Agent with bad tool.",
+  "metadata": {}
+}

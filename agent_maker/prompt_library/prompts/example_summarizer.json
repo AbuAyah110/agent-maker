@@ -1,0 +1,11 @@
+{
+  "name": "example_summarizer_v1",
+  "description": "A basic prompt to summarize a given text.",
+  "template": "Please summarize the following text in two sentences:\n\n{text_to_summarize}\n\nSummary:",
+  "input_variables": ["text_to_summarize"],
+  "metadata": {
+    "version": "1.0.0",
+    "author": "AgentMakerCLI",
+    "tags": ["summarization", "example"]
+  }
+} 

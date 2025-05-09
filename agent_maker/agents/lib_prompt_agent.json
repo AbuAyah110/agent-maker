@@ -1,0 +1,11 @@
+{
+  "agent_id": "lib_prompt_agent",
+  "agent_type": "react",
+  "model": "meta/llama3-70b-instruct",
+  "tools": [],
+  "prompt_name": "lib_prompt",
+  "prompt_template": null,
+  "has_memory": false,
+  "description": "Agent using prompt library.",
+  "metadata": {}
+}

@@ -1,0 +1,13 @@
+{
+  "agent_id": "stream_agent_c6ec272d",
+  "agent_type": "react",
+  "model": "meta/llama3-70b-instruct",
+  "tools": [
+    "llm-math"
+  ],
+  "prompt_name": null,
+  "prompt_template": "What is {input}? Use the math tool if needed.",
+  "has_memory": false,
+  "description": "Streaming agent test",
+  "metadata": {}
+}

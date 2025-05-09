@@ -1,0 +1,19 @@
+name: example_python_coder_v1
+description: A basic prompt to generate python code based on a request.
+template: |
+  You are a helpful Python coding assistant.
+  Generate Python code to accomplish the following task:
+  {coding_request}
+
+  ```python
+  # Your code here
+  ```
+input_variables:
+  - coding_request
+metadata:
+  version: 1.0.0
+  author: AgentMakerCLI
+  tags:
+    - python
+    - coding
+    - example 

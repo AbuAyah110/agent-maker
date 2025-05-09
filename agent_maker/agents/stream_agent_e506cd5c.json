@@ -1,0 +1,11 @@
+{
+  "agent_id": "stream_agent_e506cd5c",
+  "agent_type": "react",
+  "model": "meta/llama3-70b-instruct",
+  "tools": [],
+  "prompt_name": null,
+  "prompt_template": "Echo: {input}",
+  "has_memory": false,
+  "description": "Streaming agent test",
+  "metadata": {}
+}

@@ -1,0 +1,11 @@
+{
+  "agent_id": "prompt_only_agent",
+  "agent_type": "react",
+  "model": "meta/llama3-70b-instruct",
+  "tools": [],
+  "prompt_name": null,
+  "prompt_template": "Echo: {input}",
+  "has_memory": false,
+  "description": "Agent that only uses prompt.",
+  "metadata": {}
+}
